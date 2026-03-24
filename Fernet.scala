@@ -1,4 +1,7 @@
-// License Apache2
+/** 
+ * Copyright 2026 Denis Shelemekh
+ * License Apache2
+ */
 
 package com.dshelem
 
