@@ -1,6 +1,6 @@
 # fernet-scala
 
-Pure Scala implementation of [Fernet](https://github.com/fernet/spec) symmetric encryption.
+Pure Scala implementation of [Fernet]([https://github.com/fernet/spec](https://github.com/fernet/spec/blob/master/Spec.md)) symmetric encryption.
 No external dependencies — only Java 8 standard library.
 
 ## Usage
